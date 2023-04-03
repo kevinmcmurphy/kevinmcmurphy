@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! 👋
+
+My name is Kevin McMurphy. It's good to meet you.
 
 <!--
 **kevinmcmurphy/kevinmcmurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
